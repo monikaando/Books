@@ -1,5 +1,5 @@
 # Books-Angular
-In this exercise I pracice:
+In this exercise I praciced:
 1. Build and use modules in AngularJS 1.x
 2. Build and use controllers in AngularJS 1.x
 3. Use expressions to render data
